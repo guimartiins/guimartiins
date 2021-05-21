@@ -12,10 +12,10 @@
 <h2>Detailed information </h2>
 <ul>
   <li><strong>Name:<strong> Guilherme Alves</li>
-  <li><strong>Age:<strong>20</li>
-  <li><strong>Living in:<strong>Sâo Paulo - SP - Brazil</li>
-  <li><strong>University:<strong>Federal University of ABC</li>
-  <li><strong>Course:<strong>Computer Science</li>
+  <li><strong>Age: <strong>20</li>
+  <li><strong>Living in: <strong>São Paulo - SP - Brazil</li>
+  <li><strong>University: <strong>Federal University of ABC</li>
+  <li><strong>Course: <strong>Computer Science</li>
 </ul>
     
 <h2>Technologies that I use:</h2>
