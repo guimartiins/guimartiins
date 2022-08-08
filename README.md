@@ -7,7 +7,7 @@
 
 <h2>Hello there</h2>
 
-<p>My name is Guilherme. I'm back-end developer. I hope you enjoy my repos. =)</p>
+<p>My name is Guilherme, currently I'm back-end engineer at EmCasa, working with Elixir.</p>
 
 <h2>Detailed information </h2>
 <ul>
