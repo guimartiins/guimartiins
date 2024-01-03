@@ -7,12 +7,10 @@
 
 <h2>Hello there</h2>
 
-<p>My name is Guilherme, currently I'm back-end engineer at EmCasa, working with Elixir.</p>
-
 <h2>Detailed information </h2>
 <ul>
   <li><strong>Name:</strong> Guilherme Alves</li>
-  <li><strong>Age: </strong>22</li>
+  <li><strong>Age: </strong>23</li>
   <li><strong>Living in: </strong>São Paulo - SP - Brazil</li>
   <li><strong>University: </strong>FIAP</li>
   <li><strong>Course: </strong>Systems development and analysis</li>
