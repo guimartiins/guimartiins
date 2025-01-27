@@ -13,7 +13,7 @@
   <li><strong>Age: </strong>24</li>
   <li><strong>Living in: </strong>São Paulo - SP - Brazil</li>
   <li><strong>University: </strong>FIAP</li>
-  <li><strong>Software Engineer at <a href="https://gringo.com.vc/" target="_blank">Gringo</a></li>
+  <li><strong>Software Engineer at <a href="https://gringo.com.vc/" target="_blank" rel="noopener noreferrer">Gringo</a></li>
 </ul>
     
  
