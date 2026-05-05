@@ -10,9 +10,9 @@
 <h2>Detailed information </h2>
 <ul>
   <li><strong>Name:</strong> Guilherme Alves</li>
-  <li><strong>Age: </strong>24</li>
+  <li><strong>Age: </strong>25</li>
   <li><strong>Living in: </strong>São Paulo - SP - Brazil</li>
-  <li><strong>Software Engineer at <a href="https://gringo.com.vc/" target="_blank" rel="noopener noreferrer">Gringo</a></li>
+  <li><strong>Software Engineer at <a href="https://www.companyhero.com/" target="_blank" rel="noopener noreferrer">Company Hero</a></li>
 </ul>
     
  
